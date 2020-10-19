@@ -4,7 +4,7 @@ In this programme you can search a specific stat using keywords.
 
 Im a fan of Glass Canon build and was thinking of making something alike for a while.
 
-In order to launch the programme you need just these two files.
+In order to launch the programme you need just these two files. Located in the TQstatFinder_v4 folder.
 Launch the programme with the .exe file
 ###### Files
 ![alt text](https://github.com/M2etroline/TQstatFinder/blob/main/files.png?raw=true)
