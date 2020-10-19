@@ -7,7 +7,7 @@ Im a fan of Glass Canon build and was thinking of making something alike for a w
 ![alt text](https://github.com/M2etroline/TQstatFinder/blob/main/Site.png?raw=true)
 ###### An example of item data
 ![alt text](https://github.com/M2etroline/TQstatFinder/blob/main/Item.png?raw=true)
-###### Current build launch method
+###### GUI
 ![alt text](https://github.com/M2etroline/TQstatFinder/blob/main/GUI.png?raw=true)
-###### Search options
+###### Example Result
 ![alt text](https://github.com/M2etroline/TQstatFinder/blob/main/Result.png?raw=true)
