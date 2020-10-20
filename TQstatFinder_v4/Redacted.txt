@@ -1,0 +1,10 @@
+os.system('mode con: cols=100 lines=1000')
+print("""\n      Be aware that you may experience problems with the programme,
+      most common being that some information may not appear,
+      depending on whether you use value or chance to sort.\n""")
+
+while True:
+    Main()
+    print('\nPress any key to search again, or enter \'q\' to leave.\n')
+    if (input()=='q'):
+        break
