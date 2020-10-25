@@ -1,5 +1,6 @@
 # TQstatFinder
 This project, is a tool that uses Data scraped from the site https://www.tq-db.net/en/.
+It's expected to use it in combination, in order to check the Items you are interested in.
 In this programme you can search a specific stat using keywords.
 
 Im a fan of Glass Canon build and was thinking of making something alike for a while.
